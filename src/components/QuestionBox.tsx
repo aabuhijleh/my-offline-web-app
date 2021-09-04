@@ -18,11 +18,10 @@ export const QuestionBox: React.FC<QuestionBoxProps> = ({
   const [wrongChoice, setWrongChoice] = useState(-1);
 
   const checkAnswer = () => {
-    if (selectedChoice === correctChoiceIndex) {
-      setCorrectChoice(selectedChoice);
-    } else {
+    if (selectedChoice !== correctChoiceIndex) {
       setWrongChoice(selectedChoice);
     }
+    setCorrectChoice(correctChoiceIndex);
   };
 
   return (
