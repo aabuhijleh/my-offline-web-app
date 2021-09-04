@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/my-offline-web-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-offline-web-app/static/js/main.769566b0.chunk.js",
-    "main.js.map": "/my-offline-web-app/static/js/main.769566b0.chunk.js.map",
-    "runtime-main.js": "/my-offline-web-app/static/js/runtime-main.f68e40b6.js",
-    "runtime-main.js.map": "/my-offline-web-app/static/js/runtime-main.f68e40b6.js.map",
-    "static/js/2.ecfbd5be.chunk.js": "/my-offline-web-app/static/js/2.ecfbd5be.chunk.js",
-    "static/js/2.ecfbd5be.chunk.js.map": "/my-offline-web-app/static/js/2.ecfbd5be.chunk.js.map",
-    "static/js/3.25ad4963.chunk.js": "/my-offline-web-app/static/js/3.25ad4963.chunk.js",
-    "static/js/3.25ad4963.chunk.js.map": "/my-offline-web-app/static/js/3.25ad4963.chunk.js.map",
+    "main.css": "/my-offline-web-app/static/css/main.34cbcbe3.chunk.css",
+    "main.js": "/my-offline-web-app/static/js/main.ab6aa314.chunk.js",
+    "main.js.map": "/my-offline-web-app/static/js/main.ab6aa314.chunk.js.map",
+    "runtime-main.js": "/my-offline-web-app/static/js/runtime-main.12058196.js",
+    "runtime-main.js.map": "/my-offline-web-app/static/js/runtime-main.12058196.js.map",
+    "static/js/2.cee795dc.chunk.js": "/my-offline-web-app/static/js/2.cee795dc.chunk.js",
+    "static/js/2.cee795dc.chunk.js.map": "/my-offline-web-app/static/js/2.cee795dc.chunk.js.map",
+    "static/js/3.64bf193d.chunk.js": "/my-offline-web-app/static/js/3.64bf193d.chunk.js",
+    "static/js/3.64bf193d.chunk.js.map": "/my-offline-web-app/static/js/3.64bf193d.chunk.js.map",
     "index.html": "/my-offline-web-app/index.html",
     "service-worker.js": "/my-offline-web-app/service-worker.js",
     "service-worker.js.map": "/my-offline-web-app/service-worker.js.map",
-    "static/css/main.a617e044.chunk.css.map": "/my-offline-web-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ecfbd5be.chunk.js.LICENSE.txt": "/my-offline-web-app/static/js/2.ecfbd5be.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/my-offline-web-app/static/media/logo.103b5fa1.svg"
+    "static/css/main.34cbcbe3.chunk.css.map": "/my-offline-web-app/static/css/main.34cbcbe3.chunk.css.map",
+    "static/js/2.cee795dc.chunk.js.LICENSE.txt": "/my-offline-web-app/static/js/2.cee795dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f68e40b6.js",
-    "static/js/2.ecfbd5be.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.769566b0.chunk.js"
+    "static/js/runtime-main.12058196.js",
+    "static/js/2.cee795dc.chunk.js",
+    "static/css/main.34cbcbe3.chunk.css",
+    "static/js/main.ab6aa314.chunk.js"
   ]
 }
