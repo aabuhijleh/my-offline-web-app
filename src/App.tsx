@@ -1,26 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { QuestionBox } from "./components/QuestionBox";
 
-function App() {
+export const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <QuestionBox
+        question={
+          "عندما ترتفع حرارة الماء في المحرك وتريد إضافة ماء فكيف تفعل ذلك :"
+        }
+        choices={[
+          "تفتح غطاء المبرد بحذر وتضيف ماء والمحرك متوقف عن العمل .",
+          "توقف عمل المحرك وتنتظر إلى أن يبرد المحرك ثم تضيف ماء .",
+          "توقف عمل المحرك وتنتظر إلى أن يبرد المحرك ثم تضيف ماء .",
+          "تتوجه إلى أقرب كراج لإضافة ماء في المبرد .",
+        ]}
+        correctChoiceIndex={2}
+      ></QuestionBox>
     </div>
   );
-}
-
-export default App;
+};
